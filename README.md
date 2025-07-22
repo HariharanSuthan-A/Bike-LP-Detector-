@@ -8,5 +8,7 @@ Class     Images          R      mAP50     mAP50-95): 100
 Speed: 0.2ms preprocess, 2.0ms inference, 0.0ms loss, 2.3ms postprocess per image
 
 This model is free to use and the license is mentioned below!.
-==========================: LICENSE :==============================================================
+
+============================: LICENSE :=====================================
+
 <>  MIT & AGPL-3.0 (YOLOv8 by Ultralytics)
